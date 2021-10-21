@@ -36,5 +36,6 @@ Paused view includes:
 - total swim laps of the workout
 - total time of the workout
 
+
 * this requires access to the health data
 ** this requires access to the user location
